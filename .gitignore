@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Hermes lock/runtime files
+*.lock
+
+# Local temp files
+*.tmp
