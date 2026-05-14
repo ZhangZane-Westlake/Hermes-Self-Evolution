@@ -1,3 +1,5 @@
 Rednote-Assistant lives at /Users/zane/Documents/Personal/Rednote-Assistant. It is a Flask + pywebview macOS app for 小红书笔记助手. Frontend: templates/ + static/. Tests: tests/. macOS packaging: mac/. Key modules: app.py (Flask routes), database.py (SQLite multi-account), deepseek_client.py (LLM calls), vision_client.py (image recognition). Features with history support: content creation (content_history), suggestions (suggestion_history). Features with simple persistence: profile (profile_md), deep analysis (analysis_md). Dev skill: rednote-assistant-dev.
 §
 Rednote-Assistant uses /Users/zane/Documents/Personal/Rednote-Assistant/.venv; run tests with `.venv/bin/python -m pytest tests -q` from the project root.
+§
+Hermes-Self-Evolution lives at /Users/zane/Documents/Personal/Hermes-Self-Evolution and is the Git repository intended to store the user's Hermes SKILL and MEMORY Markdown snapshots.

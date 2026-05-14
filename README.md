@@ -1,23 +1,21 @@
-# Hermes-Self-Evolution
+# Hermes Self Evolution
 
-<!-- HERMES_SYNC_START -->
+This repository stores user-specific Markdown snapshots from Zane's local Hermes Agent setup.
 
-## Synced Hermes Markdown
+Synced sources:
 
-This repository stores Markdown exports of local Hermes Agent skills and memories.
-
-Sources:
-
-- `skills/` from `~/.hermes/skills/**/*.md`
 - `memories/` from `~/.hermes/memories/*.md`
+- `skills/software-development/rednote-assistant-dev/` from the user-project-specific Rednote-Assistant skill
 
-Last synced: 2026-05-14 10:13:30 +0800
+Last synced: 2026-05-14 10:20:43 +0800
 
 Current snapshot:
 
-- Skill Markdown files: 392
-- Memory Markdown files: 2
+- User memory/profile Markdown files: 2
+- User-specific skill Markdown files: 1
 
-Note: lock files and non-Markdown runtime files are intentionally excluded.
+Not included:
 
-<!-- HERMES_SYNC_END -->
+- Built-in / bundled Hermes skills
+- Community / hub-installed skills
+- Lock files and non-Markdown runtime files
