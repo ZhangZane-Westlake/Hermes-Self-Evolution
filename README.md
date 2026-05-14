@@ -5,12 +5,18 @@ This repository stores user-specific Hermes Agent skill Markdown snapshots from 
 Synced sources:
 
 - `skills/software-development/rednote-assistant-dev/` from the user-project-specific Rednote-Assistant skill
+- `skills/software-development/lab-report-docx-polish/` for polishing physics/engineering lab report DOCX files into publication-style Word manuscripts with native equations, journal captions, standardized tables, and cleaned layout
 
-Last synced: 2026-05-14 10:23:39 +0800
+Last synced: 2026-05-14 14:32:07 +0800
 
 Current snapshot:
 
-- User-specific skill Markdown files: 1
+- User-specific skill Markdown files: 2
+
+Included skills:
+
+- `rednote-assistant-dev` — Rednote-Assistant Flask + pywebview macOS app development workflow
+- `lab-report-docx-polish` — DOCX lab report polishing workflow with Word-native equations and journal-style formatting
 
 Not included:
 
